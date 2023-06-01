@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Jun  2 13:39:12 2023
+# Process ID: 14368
+# Current directory: D:/studys/xilinx/sc_gen/sc_gen.runs/impl_1
+# Command line: vivado.exe -log hello_world.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hello_world.tcl -notrace
+# Log file: D:/studys/xilinx/sc_gen/sc_gen.runs/impl_1/hello_world.vdi
+# Journal file: D:/studys/xilinx/sc_gen/sc_gen.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source hello_world.tcl -notrace
